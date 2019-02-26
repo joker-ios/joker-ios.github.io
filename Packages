@@ -30,7 +30,7 @@ Package: com.nn.m.deb
 Version: 1.0.0-1
 Section: ios12
 Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Depends: firmware (<12.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.nn.m.deb
 Size: 860
@@ -39,3 +39,4 @@ Description: تجربة عربو
 Name: bigger
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+icon: CydiaIcon.png
