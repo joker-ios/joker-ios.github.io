@@ -32,7 +32,7 @@ Section: ios12
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<7.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.nn.m.deb.deb
+Filename: ./debs/com.nn.m.deb
 Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: تجربة عربو
