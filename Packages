@@ -1,15 +1,15 @@
-Package: com.nn.m
+Package: voicemail
 Version: 1.0.0-1
 Section: ios12
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<12.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.nn.m.deb
+Filename: ./debs/voicemail.deb
 Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
+MD5sum: e26086d3cb046f95908da47972117517
 Description: تجربة عربو
-Name: bigger
+Name: voicemailRemover
 Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Depiction: https://joker-ios.github.io/depictions/depictions/?p=voicemail
 Icon: file:///Applications/Cydia.app/Sections/Addons.png
 
