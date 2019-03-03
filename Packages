@@ -2,7 +2,7 @@ Package: voicemail
 Version: 1.0.0-1
 Section: ios12
 Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<12.0)
+Depends: firmware (>=11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/voicemail.deb
 Size: 860
