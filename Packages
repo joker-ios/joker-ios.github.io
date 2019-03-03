@@ -6,7 +6,7 @@ Depends: firmware (<12.0)
 Architecture: iphoneos-arm
 Filename: ./debs/voicemail.deb
 Size: 860
-MD5sum: e26086d3cb046f95908da47972117517
+MD5sum:e26086d3cb046f95908da47972117517
 Description: تمكنك هذه الأداة من تعطيل البريد الصوتي ios 11-12
 Name: voicemailRemover
 Author: Reposi3 <reposithree@gmail.com>
