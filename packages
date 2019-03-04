@@ -1,0 +1,17 @@
+Package: com.joker-ios.vr
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Joker-ios
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.joker-ios.vr.deb
+Size: 9652
+MD5sum: f6d7f34453aeab77f70a77e113a27858
+SHA1: b1bb91c9b8ecb4c7548e1fd8e48fff640c8644b3
+SHA256: 20810b36a3ae78539f1920c114e71bdac40bc4b7d286cb84a65a674015f951f9
+Section: IOS12
+Description: لتعطيل البريد الصوتي تعمل ع ios 11-12
+Author: Joker-ios
+Icon: file:///Applications/Cydia.app/Sections/jios12.png
+Name: voicemailremover
+
