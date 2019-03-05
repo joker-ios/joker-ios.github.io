@@ -26,16 +26,16 @@ Name: Old man
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
-Package: com.nn.m
+Package: com.supermamon.oldpackage
 Version: 1.0.0-1
-Section: Ios12
+Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<12.0)
+Depends: firmware (<7.0)
 Architecture: iphoneos-arm
-Filename: ./debs/com.nn.m.deb
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
 Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f7
-Description: تجربة العربي
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old man
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage

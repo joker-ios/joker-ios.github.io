@@ -1,17 +1,41 @@
-Package: com.joker-ios.vr
-Version: 0.0.2-1+debug
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Maintainer: Joker-ios
-Installed-Size: 132
-Depends: mobilesubstrate
-Filename: ./debs/com.joker-ios.vr.deb
-Size: 9652
-MD5sum: f6d7f34453aeab77f70a77e113a27858
-SHA1: b1bb91c9b8ecb4c7548e1fd8e48fff640c8644b3
-SHA256: 20810b36a3ae78539f1920c114e71bdac40bc4b7d286cb84a65a674015f951f9
-Section: IOS12
-Description: لتعطيل البريد الصوتي تعمل ع ios 11-12
-Author: Joker-ios
-Icon: file:///Applications/Cydia.app/Sections/jios12.png
-Name: voicemailremover
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a not old package. Firmware should be lower than 7.0
+Name: Old mof
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old man
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
